@@ -54,6 +54,7 @@
         android:background="@color/colorPrimaryDark"
         android:text="@string/random_button"
         android:textColor="@color/whiteText"
+        android:onClick="randomMe"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="1.0"
